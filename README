@@ -1,0 +1,6 @@
+
+Uses TweenMax (http://www.greensock.com/tweenmax/) to rotate between ads.
+
+Need to pull out configuration into an XML file -- for now most configurable
+options (images to use, link URLs, speeds) reside in the actions of the first
+frame of banner_rotator.fla.
